@@ -13,6 +13,10 @@ This project is a basic User CRUD (Create, Read, Update, Delete) application bui
 - Update existing user data to reflect changes or edits.
 - Delete users when they are no longer needed.
 
+## Documentation
+
+- http://localhost:${PORT}/docs
+
 ## Clone and Install Dependencies
 
 ```bash
